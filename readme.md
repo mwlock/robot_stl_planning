@@ -1,6 +1,6 @@
 <h1 align="center">Robust STL Planning Through Interpolating Splines</h1>
 
-[<img src="/images/header.png" width="100%">](https://www.overleaf.com/read/rgdvrxpxgdvm
+[<img src="/figures/banner.png" width="100%">](https://www.overleaf.com/read/rgdvrxpxgdvm
 )
 ## Abstract
 
