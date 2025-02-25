@@ -1,5 +1,7 @@
-<h1 align="Robust STL Planning Through Interpolating Splines</h1>
+<h1 align="center">Robust STL Planning Through Interpolating Splines</h1>
 
+[<img src="/images/header.png" width="100%">](https://www.overleaf.com/read/rgdvrxpxgdvm
+)
 ## Abstract
 
 In autonomous systems, robust spatio-temporal planning is essential for navigating complex environments, where precise spatial trajectories and temporal constraints coordination is critical. Signal Temporal Logic (STL) provides a powerful formalism for defining these constraints, with quantitative semantics offering robustness measures vital for safety-critical and disturbance-resilient applications. However, STL-based planning is computationally intensive, posing challenges for real-time applications, particularly in long-horizon missions.
